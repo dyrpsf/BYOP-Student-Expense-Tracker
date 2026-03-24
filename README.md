@@ -76,6 +76,6 @@ Enter the number corresponding to the action you want to perform.
     Build a web interface
 
 ## Author
-Deepak Yadav
-B.Tech CSE Student
+Deepak Yadav <br>
+B.Tech CSE Student <br>
 VIT Bhopal University
