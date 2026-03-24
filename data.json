@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Lunch",
+        "category": "Food",
+        "amount": 120.0,
+        "date": "2026-03-20"
+    },
+    {
+        "title": "Notebook",
+        "category": "Study",
+        "amount": 80.0,
+        "date": "2026-03-22"
+    }
+]
