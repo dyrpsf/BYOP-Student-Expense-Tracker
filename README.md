@@ -74,6 +74,7 @@ Enter the number corresponding to the action you want to perform.
     Export data to CSV
     Add graphical charts
     Build a web interface
+    OTP Based login system
 
 ## Author
 Deepak Yadav <br>
