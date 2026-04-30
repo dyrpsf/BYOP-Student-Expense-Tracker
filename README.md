@@ -75,6 +75,7 @@ Enter the number corresponding to the action you want to perform.
     Add graphical charts
     Build a web interface
     OTP Based login system
+    Add database to the system
 
 ## Author
 Deepak Yadav <br>
