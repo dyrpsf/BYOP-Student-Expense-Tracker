@@ -71,7 +71,7 @@ Enter the number corresponding to the action you want to perform.
 
 ## Future Improvements
     Add budget alerts
-    Export data to CSV
+    Export data to CSV, XLSX
     Add graphical charts
     Build a web interface
     OTP Based login system
